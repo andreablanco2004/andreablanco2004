@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Andrea Guadalupe Blanco Rubio
 
 Soy estudiante de **Ingeniería en Tecnologías Computacionales** con fuerte interés en el desarrollo de software, análisis de datos y soluciones innovadoras para el mundo real. Me encanta aprender nuevas tecnologías, trabajar en equipo y aplicar mis conocimientos en proyectos prácticos.
 
